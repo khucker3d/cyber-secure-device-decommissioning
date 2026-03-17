@@ -141,3 +141,8 @@ manage-bde -on C: -usedspaceonly
 manage-bde -status
 Get-Tpm
 Confirm-SecureBootUEFI
+
+---
+
+Result
+Delivered a clean, trusted endpoint suitable for cybersecurity lab environments and demonstrated strong risk-based decision-making in handling encrypted enterprise assets.
