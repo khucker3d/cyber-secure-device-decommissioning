@@ -1,4 +1,4 @@
-# Secure Device Decommissioning, BitLocker, Clean Reprovisioning (Windows 11)
+# Secure Device Decommissioning, BitLocker, Clean Reprovisioning (Windows 10)
 
 Author: Kellie Hucker  
 
@@ -8,7 +8,7 @@ Author: Kellie Hucker
 
 This device was previously issued by a former employer and later transferred to me as personal hardware. 
 
-At the time of reclaiming the system, it still retained enterprise BitLocker encryption and potential management artifacts. Since recovery keys and tenant access were not available, the device was treated as untrusted and fully re-provisioned to establish a secure baseline under personal ownership.
+At the time of reclaiming the system, it still retained enterprise BitLocker encryption and potential management artifacts. Since recovery keys and tenant access were not available, the device was treated as untrusted and fully re-provisioned to establish a secure baseline under personal ownership. The rebuild process began with a clean installation of Windows 10 from trusted media to ensure full removal of legacy partitions and enterprise controls. The system was then upgraded to Windows 11 Pro and re-secured using modern platform protections.
 
 ---
 
